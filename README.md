@@ -34,7 +34,7 @@ Initial datasets were provided by the Chicago Department of Public Health and ar
 
 Generated datasets used for model fitting and testing are found in the **output** directory.  Note the train_weather_daily.csv and test_weather_daily.csv are the two files ultimately used for EDA and modeling. 
 
-* **submission.csv**: Model prediction probabilities submitted to Kaggel
+* **submission.csv**: Model prediction probabilities submitted to Kaggle.
 * **test_weather_daily.csv**: Test data merged with Station 1 weather data.
 * **train_spray_under3miles.csv**: Training data with spray information for traps within thhree miles of spray location.
 * **train_spray_weather_avg.csv**: Training data with spray information and average monthly weather data.
