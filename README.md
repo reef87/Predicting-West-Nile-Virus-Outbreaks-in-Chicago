@@ -47,6 +47,6 @@ Project code is broken out into three jupyter notebooks that can be found in the
 * **project-4-wnv-nb3.ipynb**: Modeling
 
 
-## Extra
+## Extras
 
 A project task list and the presentation pdfs in the **deliverable** directory.
