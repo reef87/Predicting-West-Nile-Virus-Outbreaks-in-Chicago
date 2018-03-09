@@ -14,6 +14,7 @@
   * statistical-wnv.ipynb
   * project-4-wnv-nb3.ipynb
 * output
+  * submission.csv
   * test_weather_daily.csv
   * train_spray_under3miles.csv
   * train_spray_weather_avg.csv
@@ -31,12 +32,14 @@ Initial datasets were provided by the Chicago Department of Public Health and ar
 * **train.csv**: Mosquito testing dataset to be used for fitting models. Years covered, 2007, 2009, 2011, 2013.
 * **weather.csv**:  Weather data from 2007-2014 for May-October. Data is provided for two weather stations.
 
-Generate datasets used for model fitting and testing are found in the **output** directory.  Note the train_weather_daily.csv and test_weather_daily.csv are the two files ultimately used for EDA and modeling. 
+Generated datasets used for model fitting and testing are found in the **output** directory.  Note the train_weather_daily.csv and test_weather_daily.csv are the two files ultimately used for EDA and modeling. 
 
+* **submission.csv**: Model prediction probabilities submitted to Kaggel
 * **test_weather_daily.csv**: Test data merged with Station 1 weather data.
 * **train_spray_under3miles.csv**: Training data with spray information for traps within thhree miles of spray location.
 * **train_spray_weather_avg.csv**: Training data with spray information and average monthly weather data.
 * **train_weather_daily.csv**: Training data merged with Station 1 weather data.
+
 
 ##  Code
 
