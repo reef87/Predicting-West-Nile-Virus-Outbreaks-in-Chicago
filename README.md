@@ -49,4 +49,4 @@ Project code is broken out into three jupyter notebooks that can be found in the
 
 ## Extras
 
-The project tasks and presentation pdfs are in the **deliverable** directory.
+The project tasks and presentation pdfs are in the **deliverables** directory.
